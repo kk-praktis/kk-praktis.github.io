@@ -1,0 +1,6 @@
+[book]
+authors = ["Christian", "Luca", "Yassin", "Yussuf"]
+language = "de"
+multilingual = true
+src = "src"
+title = "Übungsaufgaben"
